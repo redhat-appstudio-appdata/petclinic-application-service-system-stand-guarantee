@@ -1,0 +1,4 @@
+bases:
+- components/component-sample/base
+resources:
+- common-storage-pvc.yaml
